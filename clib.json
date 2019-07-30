@@ -1,0 +1,10 @@
+{
+  "name": "clib-json-package-test",
+  "src": [
+    "main.c"
+  ],
+  "dependencies": {
+    "jwerle/libras": "*",
+    "list": "*"
+  }
+}
