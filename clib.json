@@ -1,5 +1,5 @@
 {
-  "name": "clib-json-package-test",
+  "name": "namespaced/clib-json-package-test",
   "src": [
     "main.c"
   ],
