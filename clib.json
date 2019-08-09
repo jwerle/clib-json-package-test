@@ -1,5 +1,7 @@
 {
   "name": "namespaced/clib-json-package-test2",
+  "repo": "libuv/libuv",
+  "makefile": "https://raw.githubusercontent.com/clibs/uv/master/clib-install.sh",
   "src": [
     "main.c"
   ],
