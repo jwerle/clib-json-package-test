@@ -3,6 +3,7 @@
   "repo": "libuv/libuv",
   "makefile": "https://git.io/fj7A4#https://github.com/clibs/semver/blob/master/scripts/fix-includes.sh",
   "install": "sh clib-install.sh",
+  "flags": "-pthread",
   "src": [
     "main.c"
   ],
